@@ -2,6 +2,9 @@
 Projet Php IPSSI Martin Supiot
 
 
+Le projet se situe dans le dossier  	GONS SAIB Fatimah SITE PHP/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2
+
+
 Le projet a été fait avec les technologies suivantes : Bootstrap, Html, Css, Php, Mysql.
 
 Le projet est contenu dans le dossier : paper-dashboard-free-v1.1.2
